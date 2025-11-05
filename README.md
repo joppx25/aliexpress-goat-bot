@@ -1,6 +1,6 @@
 ### AliGoat-Bot
 
-> Automates product tracking across AliExpress, GOAT, and shipping status via 17track.
+Automates product tracking across AliExpress, GOAT, and shipping status via 17track.
 
 ## 🚀 What this project does
 
